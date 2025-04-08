@@ -10,7 +10,7 @@ Date: **08.04.2025**
 
 ![Like emote](images/gitimg.png)
 
-*****
+***
 
 ### Adding your first file
 
@@ -26,7 +26,7 @@ touch Hello_World.py
  gedit Hello_World.py
  ```
  
- > Now you have to use *git add* command
+ > Now you have to use *git add* command to add your script to the **staging area**
  
  ```bash
  git add -u "Hello_World.py"
@@ -39,10 +39,29 @@ touch Hello_World.py
  git commit -m "My first commit"
  ```
  
- #### **Good Job!**  
+ > Finally you will push changes to GitHub repository
+ 
+ ```bash
+ git push origin
+ ```
+ 
+##### **Good Job!**  
  **You have succesfully added your first python script to your repository!**
  
- ****
+ ***
+ 
+ ***
+ 
+###### Branching 
+
+Branching allows to diverge from the main branch. After that you can merge your branches (*beware merging conflict*) or if you like your new branch you can make it the main one!
+
+
+
+
+
+
+ 
  
  
  

@@ -12,7 +12,7 @@ Date: **08.04.2025**
 
 *****
 
-### Adding your first file or directory
+### Adding your first file
 
 
 ```bash
@@ -38,6 +38,9 @@ touch Hello_World.py
  ```bash
  git commit -m "My first commit"
  ```
+ #### **Good Job!**  
+ **You have succesfully added your first python script to your repository!**
+ 
  
  
  

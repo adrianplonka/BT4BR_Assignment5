@@ -13,7 +13,8 @@ Date: **08.04.2025**
 ## Table of contents
  - [First file](#Adding-your-first-file)
  - [Branching](#Branching)
-
+ - [Summary](#Summary-and-other-useful-git-commands)
+ 
 ***
 
 ### Adding your first file
@@ -95,6 +96,33 @@ git push origin
 ```
 
 - Now your *main* branch contains changes made in *new_branch*
+
+***
+
+## Summary and other useful git commands
+
+1. Configuration
+ - `git config --global user.name "Your Name"` - set your Git username
+ - `git config --global user.email "your.email@example.com"` - set your Git email address.
+2. Basic commands
+ - `git clone [url]` - clone an existing repository from GitHub
+ - `git add [file]` - add a file to the staging area
+ - `git add .` - add **all** changes to the staging area
+ - `git commit -m "name of your commit"` - commit changes in that are currently in the staging area and name your commit
+ - `git push origin` - push your commits to repository on GitHub
+ - `git pull` - pull changes from remote repository to local machine
+ - `git log` - display commit history
+ 3. Branching
+ - `git branch` - list all branches
+ - `git branch [branch name]` - create a new branch
+ - `git checkout [branch name]` - move to a particular branch
+ - `git merge [branch name]` - merge a branch into the current branch
+ - `git fetch` - download changes from repository on GitHub without changing (merging) local repository
+ 
+ ##**That's it, now you can work with GitHub**  
+ ## Good luck!
+ 
+
 
 
 

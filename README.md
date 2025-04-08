@@ -8,5 +8,5 @@ Date: **08.04.2025**
 
 ### *Mini* GitHub Guide
 
-![Like emote](https://imgur.com/a/zyStS5E)
+![Like emote](images/gitimg.png)
 

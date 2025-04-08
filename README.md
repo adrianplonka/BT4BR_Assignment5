@@ -119,7 +119,7 @@ git push origin
  - `git merge [branch name]` - merge a branch into the current branch
  - `git fetch` - download changes from repository on GitHub without changing (merging) local repository
  
-##**That's it, now you can work with GitHub**  
+## That's it, now you can work with GitHub  
 ## Good luck!
 
 ***

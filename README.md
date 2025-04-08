@@ -73,7 +73,7 @@ git branch new_branch
 git checkout new_branch
 ```
 
-> Now you are working in the *new_branch
+> Now you are working in the *new_branch*
 >> Try editing a file, for example *Hello_World.py*
 >> Just add some additional code such as 
 >```python
@@ -119,9 +119,10 @@ git push origin
  - `git merge [branch name]` - merge a branch into the current branch
  - `git fetch` - download changes from repository on GitHub without changing (merging) local repository
  
- ##**That's it, now you can work with GitHub**  
- ## Good luck!
- 
+##**That's it, now you can work with GitHub**  
+## Good luck!
+
+***
 
 
 

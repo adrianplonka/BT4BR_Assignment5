@@ -10,6 +10,10 @@ Date: **08.04.2025**
 
 ![Like emote](images/gitimg.png)
 
+## Table of contents
+ - [First file](#Adding your first file)
+ - [Branching](#Branching)
+
 ***
 
 ### Adding your first file
@@ -45,16 +49,18 @@ touch Hello_World.py
  git push origin
  ```
  
-##### **Good Job!**  
+### **Good Job!**  
  **You have succesfully added your first python script to your repository!**
  
  ***
  
  ***
  
-###### Branching 
+### Branching 
 
 Branching allows to diverge from the main branch. After that you can merge your branches (*beware merging conflict*) or if you like your new branch you can make it the main one!
+
+
 
 
 

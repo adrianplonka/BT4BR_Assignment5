@@ -38,9 +38,11 @@ touch Hello_World.py
  ```bash
  git commit -m "My first commit"
  ```
+ 
  #### **Good Job!**  
  **You have succesfully added your first python script to your repository!**
  
+ ****
  
  
  
